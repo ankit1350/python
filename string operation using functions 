@@ -1,0 +1,13 @@
+def string_operations():
+    sample_text = " hello python world!"
+    print("original string:", sample_text)
+    print("stripeped string:",sample_text.strip())
+    print("uppercase:",sample_text.upper())
+    words=sample_text.split(",")
+    print("list:",words)
+    print("replaced string:",sample_text.replace("python","java"))
+    print("index:",sample_text.find("python"))
+    print(" ".join(words))
+    print("count:",sample_text.count("o"))
+    print("is alpha.:",sample_text.isalpha())
+string_operations()
