@@ -14,5 +14,5 @@ for i in s:
 
     print('''it was quite a lonely night in
     the blink of on a the dark faded out 
-    breathing under the sunlight  
+    blooming under the sunlight  
     memories with me and you''')
